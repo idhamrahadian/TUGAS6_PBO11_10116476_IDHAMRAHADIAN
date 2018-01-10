@@ -22,7 +22,11 @@ import javax.swing.table.TableModel;
 
 /**
  *
- * @author Idham Rahadian
+ * @author 
+ * NIM  : 10116476
+ * NAMA : IDHAM RAHADIAN
+ * KELAS: PBO11
+ * 
  */
 public class PelangganView extends javax.swing.JPanel implements PelangganListener, ListSelectionListener {
 
@@ -285,7 +289,7 @@ public class PelangganView extends javax.swing.JPanel implements PelangganListen
     }//GEN-LAST:event_btnUbahActionPerformed
 
     private void btnHapusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHapusActionPerformed
-        controller.resetPelanggan(this);
+        controller.deletePelanggan(this);
     }//GEN-LAST:event_btnHapusActionPerformed
 
 

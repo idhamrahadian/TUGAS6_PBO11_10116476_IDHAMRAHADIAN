@@ -3,6 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/**
+ *
+ * @author 
+ * NIM  : 10116476
+ * NAMA : IDHAM RAHADIAN
+ * KELAS: PBO11
+ * 
+ */
 package edu.idhamrahadian.latihanmvcjdbc.controller;
 
 import edu.idhamrahadian.latihanmvcjdbc.model.PelangganModel;

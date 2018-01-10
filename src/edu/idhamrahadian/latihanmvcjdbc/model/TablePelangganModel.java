@@ -12,7 +12,11 @@ import javax.swing.table.AbstractTableModel;
 
 /**
  *
- * @author Idham Rahadian
+ * @author 
+ * NIM  : 10116476
+ * NAMA : IDHAM RAHADIAN
+ * KELAS: PBO11
+ * 
  */
 public class TablePelangganModel extends AbstractTableModel{
 

@@ -10,7 +10,11 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Idham Rahadian
+ * @author 
+ * NIM  : 10116476
+ * NAMA : IDHAM RAHADIAN
+ * KELAS: PBO11
+ * 
  */
 public class MainViewPelanggan extends javax.swing.JFrame {
 
